@@ -1,8 +1,8 @@
 # The Hacking Project - Semaine 3 - Jeudi - Morpion
 
-Après avoir cloné/téléchargé le repo il faut 
+Après avoir cloné le repo,
 - Faire un **bundle install**
-- Exécuter le fichier **programme/app.rb**
+- Exécuter le fichier **programme/app.rb** avec ruby app.rb
 
 ## Contenu du repo
 
