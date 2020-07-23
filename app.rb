@@ -4,12 +4,12 @@ Bundler.require
 require_relative 'lib/game'
 require_relative 'lib/player'
 
-puts "-------------------------------------------------"
+puts " -" * 24
 puts "|                                               |"
 puts "|          Bienvenue sur le Morpion             |"
 puts "|     Le but du jeu est d'aligner 3 cases       |"
 puts "|                                               |"
-puts "-------------------------------------------------"
+puts " -" * 24
 puts ""
 puts "Donne un prénom au joueur 1"
 print "> "
